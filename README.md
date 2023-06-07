@@ -128,7 +128,8 @@ position: absolute; width: 326px; height: 49px; left: 20px; top: 551px;
 https://github.com/gracia55/event-registration/blob/main/README.md 6/8
 font-family: 'Inter'; font-style: normal; font-weight: 400; font-size: 20px; line-height: 24px;
 text-align: center;
-color: #141212; '
+color: #141212; 
+``
 ## OUTPUT:
 ![image](https://github.com/gracia55/event-registration/assets/129026838/6056e237-28fe-4059-8e17-e29769459d6c)
 ![image](https://github.com/gracia55/event-registration/assets/129026838/e2c9e451-a36f-4a79-b680-7d6b70f1dc0d)
